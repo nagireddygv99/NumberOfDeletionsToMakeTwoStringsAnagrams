@@ -1,5 +1,3 @@
-package code_base_assign_12_06_2021;
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
